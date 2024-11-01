@@ -1,1 +1,8 @@
-FIR LMS MATLAB CODE PRESENTATION.pptx
+#Power Point files
+*.pptx
+
+#Word files
+*.docx
+
+#7zip files
+*.7z
